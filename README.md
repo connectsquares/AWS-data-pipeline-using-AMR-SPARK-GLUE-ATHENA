@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license//connectsquares/AWS-data-pipeline-using-AMR-Spark-Glue-Athena/blob/main/LICENSE?style=flat)
+![GitHub](https://img.shields.io/github/license/connectsquares/AWS-data-pipeline-using-AMR-Spark-Glue-Athena?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/connectsquares/AWS-data-pipeline-using-AMR-SPARK-GLUE-ATHENA?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/connectsquares/AWS-data-pipeline-using-AMR-SPARK-GLUE-ATHENA?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/connectsquares/AWS-data-pipeline-using-AMR-SPARK-GLUE-ATHENA?style=flat)
